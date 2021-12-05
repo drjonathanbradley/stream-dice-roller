@@ -7,12 +7,7 @@
   "manifestPlusVersion": "0.1.0",
   "minimumCoreVersion": "0.8.8",
   "compatibleCoreVersion": "0.8.9",
-  "authors": [
-    {
-      "name": "Jonathan Bradley",
-      "url": "https://github.com/drjonathanbradley"
-    }
-  ],
+  "author": "Jonathan Bradley",
   "dependencies": [],
   "conflicts": [],
   "esmodules": ["/scripts/module.js"],

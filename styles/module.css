@@ -1,0 +1,20 @@
+div#stream-message-container {
+  width: 100vw;
+  height: 100vh;
+  background-color: transparent;
+  display: flex;
+  justify-content: flex-end;
+  flex-direction: column;
+  align-items: center;
+  z-index: 1;
+  text-align: center;
+}
+
+div#stream-message-container > p {
+  background-color: transparent;
+  color: white;
+  -webkit-text-stroke: 3px black;
+  text-stroke: 3px black;
+  font-size: 96px;
+  z-index: 1;
+}
